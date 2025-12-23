@@ -1,0 +1,9 @@
+flask
+pandas
+openpyxl
+pdfplumber
+werkzeug
+openai
+python-dotenv
+flask-cors
+gunicorn

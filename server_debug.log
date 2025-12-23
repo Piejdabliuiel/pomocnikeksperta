@@ -1,0 +1,302 @@
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+--- Processing BIK 25.10..pdf ---
+API Key Present: True
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+--- Processing BIK 25.10..pdf ---
+API Key Present: True
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+RAW LLM JSON: {
+  "personal_data": {
+    "name": "Paweł Heuser",
+    "pesel": "94060104211",
+    "score": 52,
+    "date": "2024-10-25"
+  },
+  "liabilities": {
+    "active_liabilities": [
+      {
+        "bank": "SANTANDER CONSUMER BANK",
+        "installment": "159 PLN",
+        "amount_left": "6.174 PLN"
+      }
+    ],
+    "closed_liabilities": [
+      {
+        "bank": "MBANK WYDZIAŁ BANKOWOŚCI ELEKTRONICZNEJ",
+        "closing_date": "09.09.2024",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "26.06.2024",
+        "arrears_amount": "0"
+      }
+    ],
+    "statistical_liabilities": [
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "14.08.2024",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "08.08.2024",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "23.05.2023",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "11.09.2023",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "12.03.2024",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "21.04.2020",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "SANTANDER CONSUMER BANK",
+        "closing_date": "10.04.2018",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "13.09.2016",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "15.08.2024",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "15.08.2024",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "15.08.2024",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "15.08.2024",
+        "arrears_amount": "0"
+      },
+      {
+        "bank": "ALIOR BANK",
+        "closing_date": "15.08.2024",
+        "arrears_amount": "0"
+      }
+    ]
+  }
+}
+--- Processing BIK_25.10..pdf ---
+API Key Present: True
+RAW LLM JSON: {
+  "personal_data": {
+    "name": "Paweł Heuser",
+    "pesel": "94060104211",
+    "score": 52,
+    "date": "2024-10-25"
+  },
+  "active_liabilities": [
+    {
+      "bank": "SANTANDER CONSUMER BANK",
+      "installment": "159 PLN",
+      "amount_left": "6.174 PLN"
+    }
+  ],
+  "closed_liabilities": [
+    {
+      "bank": "MBANK WYDZIAŁ BANKOWOŚCI ELEKTRONICZNEJ",
+      "closing_date": "09.09.2024",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "26.06.2024",
+      "arrears_amount": "0"
+    }
+  ],
+  "statistical_liabilities": [
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "14.08.2024",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "08.08.2024",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "23.05.2023",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "11.09.2023",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "12.03.2024",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "21.04.2020",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "SANTANDER CONSUMER BANK",
+      "closing_date": "10.04.2018",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "13.09.2016",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "15.08.2024",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "15.08.2024",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "15.08.2024",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "15.08.2024",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "15.08.2024",
+      "arrears_amount": "0"
+    }
+  ]
+}
+--- Processing BIK 25.10..pdf ---
+API Key Present: True
+RAW LLM JSON: {
+  "personal_data": {
+    "name": "Paweł Heuser",
+    "pesel": "94060104211",
+    "score": 52,
+    "date": "2024-10-25"
+  },
+  "active_liabilities": [
+    {
+      "bank": "SANTANDER CONSUMER BANK",
+      "installment": "159 PLN",
+      "amount_left": "6.174 PLN"
+    }
+  ],
+  "closed_liabilities": [
+    {
+      "bank": "MBANK WYDZIAŁ BANKOWOŚCI ELEKTRONICZNEJ",
+      "closing_date": "09.09.2024",
+      "arrears_amount": "0"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "closing_date": "26.06.2024",
+      "arrears_amount": "0"
+    }
+  ],
+  "statistical_liabilities": [
+    {
+      "bank": "ALIOR BANK",
+      "amount": "2.832 PLN",
+      "closing_date": "14.08.2024"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "amount": "3.663 PLN",
+      "closing_date": "08.08.2024"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "amount": "2.818 PLN",
+      "closing_date": "23.05.2023"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "amount": "2.348 PLN",
+      "closing_date": "11.09.2023"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "amount": "2.321 PLN",
+      "closing_date": "12.03.2024"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "amount": "2.796 PLN",
+      "closing_date": "21.04.2020"
+    },
+    {
+      "bank": "SANTANDER CONSUMER BANK",
+      "amount": "2.069 PLN",
+      "closing_date": "10.04.2018"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "amount": "504 PLN",
+      "closing_date": "13.09.2016"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "amount": "2.000 PLN",
+      "closing_date": "15.08.2024"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "amount": "2.800 PLN",
+      "closing_date": "15.08.2024"
+    },
+    {
+      "bank": "ALIOR BANK",
+      "amount": "5.250 PLN",
+      "closing_date": "15.08.2024"
+    }
+  ]
+}
